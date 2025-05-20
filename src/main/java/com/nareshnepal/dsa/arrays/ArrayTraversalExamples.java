@@ -1,3 +1,8 @@
+/**
+ * This file was generated with the assistance of ChatGPT (OpenAI).
+ * It demonstrates various ways to traverse an array in Java.
+ */
+
 package com.nareshnepal.dsa.arrays;
 
 import java.util.Arrays;
