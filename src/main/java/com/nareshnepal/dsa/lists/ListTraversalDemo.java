@@ -2,9 +2,6 @@ package com.nareshnepal.dsa.lists;
 
 import java.util.*;
 
-import java.util.*;
-import java.util.stream.*;
-
 public class ListTraversalDemo {
 
     public static void main(String[] args) {
