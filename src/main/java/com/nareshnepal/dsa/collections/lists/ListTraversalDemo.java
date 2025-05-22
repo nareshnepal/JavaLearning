@@ -1,4 +1,4 @@
-package com.nareshnepal.dsa.lists;
+package com.nareshnepal.dsa.collections.lists;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.nareshnepal.dsa.sets;
+package com.nareshnepal.dsa.collections.sets;
 
 import java.util.*;
 import java.util.Spliterator;

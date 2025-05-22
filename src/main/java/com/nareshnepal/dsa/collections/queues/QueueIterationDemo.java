@@ -1,4 +1,4 @@
-package com.nareshnepal.dsa.queues;
+package com.nareshnepal.dsa.collections.queues;
 
 import java.util.*;
 import java.util.Spliterator;
