@@ -1,8 +1,6 @@
 package com.nareshnepal.dsa.collections;
 
 import java.util.*;
-import java.util.function.Predicate;
-import java.util.stream.Stream;
 
 public class CollectionMethodExamples {
 
